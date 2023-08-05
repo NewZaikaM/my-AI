@@ -8,7 +8,7 @@ const Hero = () => {
 				<img src={logo} alt="samz_logo" className="w-28 object-contain" />
 				<button
 					type="button"
-					onClick={() => window.open('https://www.google.com')}
+					onClick={() => window.open('https://github.com/NewZaikaM/my-AI')}
 					className="black_btn"
 				>
 					GitHub
